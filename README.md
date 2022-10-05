@@ -8,14 +8,18 @@ Usefull links, tools and more
 # FORENSIC
 
 # REVERSE
-- [Frida](https://frida.re/docs/examples/windows) - инжект кода в процесс
-- [Unicron](https://www.unicorn-engine.org/) - CPU эмулятор
+- [gdb](https://www.sourceware.org/gdb/) - консольный дебаггер под линь.
+- [radare2](https://rada.re/n/) - консольный дебаггер под линь (более продвинутый, чем gdb).
+- [Cutter](https://cutter.re/) - GUI для консольных дебаггеров (gdb, radare2)
+- [Frida](https://frida.re/docs/examples/windows) - инжект кода в процесс. Мультиплатформенная (Linux, Windows, Android, MacOS)
+- [Unicorn](https://www.unicorn-engine.org/) - CPU эмулятор (например, для эмуляции куска кода [шеллкода]). Фреймвокр для python.
 
 > чуть позже сформирую примеры работы с этими тулзами
 
 # PWN
-- [Генератор реверс шеллов](https://www.revshells.com/)
-- [pwntools](https://github.com/Gallopsled/pwntools)
+- [Генератор реверс шеллов](https://www.revshells.com/) - быстрая генерация скриптов предназначенных для создания обратного подключения на атакуемом сервере.
+- [pwntools](https://github.com/Gallopsled/pwntools) - удобный фреймворк (для python) для CTF и AD (написание эксплоитов (aka PoC-ов))
+- [hexinject](https://hexinject.sourceforge.net/) - для создания кастомных сетевых пакетов, а также перехвата и инжекта. Также есть возможность работать с USB устройствами: создание, перехват и изменение передаваемых пакетов данных.
 
 ---
 @hehe
