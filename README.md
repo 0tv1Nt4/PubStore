@@ -26,6 +26,7 @@ Usefull links, tools and more
 - patchelf
 - Ghidra
 - IDA Pro (+ Hex-Rays плагин)
+- [Kaitai](https://github.com/kaitai-io/kaitai_struct_formats) - парсер разных форматов файлов. Можно описывать свои форматы. [Онлайн версия](https://ide.kaitai.io) и [локальная версия](https://github.com/kaitai-io/kaitai_struct_visualizer)
 - ....
 
 > чуть позже сформирую примеры работы с этими тулзами
