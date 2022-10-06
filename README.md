@@ -6,6 +6,13 @@ Usefull links, tools and more
 # WEB
 
 # FORENSIC
+- [Autopsy](https://www.autopsy.com/)
+- [Volatility](https://github.com/volatilityfoundation/volatility)
+
+# STEGANO
+- [Stegsolve](https://wiki.bi0s.in/steganography/stegsolve/)
+- [Steghide](https://steghide.sourceforge.net/)
+- [Audacity](https://www.audacityteam.org/)
 
 # REVERSE
 - [gdb](https://www.sourceware.org/gdb/) - консольный дебаггер под линь.
@@ -16,6 +23,10 @@ Usefull links, tools and more
 - [binwalk](https://www.kali.org/tools/binwalk/) - тулза поиска встроенных файлов, архивов и их извлечения.
 - [strings](https://linux.die.net/man/1/strings) - для извлечения строк из файлов
 - [grep](https://man7.org/linux/man-pages/man1/grep.1.html) и `egrep` (то же, что и `grep -E`) - для фильтрации вывода, а также поиска указанной строки в файле(-ах). Можно использовать регулярные выражения.
+- patchelf
+- Ghidra
+- IDA Pro (+ Hex-Rays плагин)
+- ....
 
 > чуть позже сформирую примеры работы с этими тулзами
 
