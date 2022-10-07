@@ -31,6 +31,7 @@ Usefull links, tools and more
 - [de4dot](https://github.com/de4dot/de4dot) - распаковщик и деобфускатор для .NET приложений.
 - [DotPeek](https://www.jetbrains.com/decompiler/) - декомпилятор для .NET приложений. Достаточно тяжелый
 - [ILSpy](https://github.com/icsharpcode/ILSpy) - более простой и легковесный (по сравнению с DotPeek) декомпилятор для .NET приложений. Обычно ILSpy хватает для анализа .NET бинарей.
+- [dnSpy](https://github.com/dnSpy/dnSpy) - дебаггер для .NET приложений.
 - [Kaitai](https://github.com/kaitai-io/kaitai_struct_formats) - парсер разных форматов файлов. Можно описывать свои форматы. [Онлайн версия](https://ide.kaitai.io) и [локальная версия](https://github.com/kaitai-io/kaitai_struct_visualizer)
 - [D-810](https://eshard.com/posts/d810-deobfuscation-ida-pro) - IDA Pro плагин для деобфускации.
 - [uncompyle6](https://pypi.org/project/uncompyle6/) - декомпилятор байт-кода питона (pyc - файлы). Декомплирует все версии ниже 3.9
