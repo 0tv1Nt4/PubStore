@@ -26,6 +26,10 @@ Usefull links, tools and more
 - [patchelf](https://manpages.ubuntu.com/manpages/bionic/man1/patchelf.1.html) - не патчит код. Может поменять loader ("ELF interpreter"), а также можно изменить RPATH (захардкоженные в бинарь пути, где происходит поиск импортируемых библиотек).
 - [Ghidra](https://github.com/NationalSecurityAgency/ghidra) - бесплатный дизассемблер и декомпилятор (аналог IDA Pro). Мультиплатформенный (Windows, Linux, MACOs).
 - [IDA Pro (+ Hex-Rays плагин для декомпиляции)](https://hex-rays.com/ida-pro/) - платный дизассемблер и декомпилятор. На просторах инета можно найти крякнутую версию с плагином.
+- [IDR](https://github.com/crypto2011/IDR) - дизассемблер для exe-шников, написанных на Delphi.
+- [de4dot](https://github.com/de4dot/de4dot) - распаковщик и деобфускатор для .NET приложений.
+- [DotPeek](https://www.jetbrains.com/decompiler/) - декомпилятор для .NET приложений. Достаточно тяжелый
+- [ILSpy](https://github.com/icsharpcode/ILSpy) - более простой и легковесный (по сравнению с DotPeek) декомпилятор для .NET приложений. Обычно ILSpy хватает для анализа .NET бинарей.
 - [Kaitai](https://github.com/kaitai-io/kaitai_struct_formats) - парсер разных форматов файлов. Можно описывать свои форматы. [Онлайн версия](https://ide.kaitai.io) и [локальная версия](https://github.com/kaitai-io/kaitai_struct_visualizer)
 - [D-810](https://eshard.com/posts/d810-deobfuscation-ida-pro) - IDA Pro плагин для деобфускации.
 - [uncompyle6](https://pypi.org/project/uncompyle6/) - декомпилятор байт-кода питона (pyc - файлы). Декомплирует все версии ниже 3.9
