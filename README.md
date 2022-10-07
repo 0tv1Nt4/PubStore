@@ -27,6 +27,7 @@ Usefull links, tools and more
 - [Ghidra](https://github.com/NationalSecurityAgency/ghidra) - бесплатный дизассемблер и декомпилятор (аналог IDA Pro). Мультиплатформенный (Windows, Linux, MACOs).
 - [IDA Pro (+ Hex-Rays плагин для декомпиляции)](https://hex-rays.com/ida-pro/) - платный дизассемблер и декомпилятор. На просторах инета можно найти крякнутую версию с плагином.
 - [IDR](https://github.com/crypto2011/IDR) - дизассемблер для exe-шников, написанных на Delphi.
+- [VB Decompiler](https://www.vb-decompiler.org/products/rus.htm) - дизассемблер и декомпиллятор (для использования декомпилятора нужна верси VB Decompiler PRO [можно найти крякнутую]) для exe-шников, написанных на Visual Basic. Дизассемблирует как p-code, так и native code.
 - [de4dot](https://github.com/de4dot/de4dot) - распаковщик и деобфускатор для .NET приложений.
 - [DotPeek](https://www.jetbrains.com/decompiler/) - декомпилятор для .NET приложений. Достаточно тяжелый
 - [ILSpy](https://github.com/icsharpcode/ILSpy) - более простой и легковесный (по сравнению с DotPeek) декомпилятор для .NET приложений. Обычно ILSpy хватает для анализа .NET бинарей.
