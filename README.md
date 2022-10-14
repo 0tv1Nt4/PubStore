@@ -37,6 +37,7 @@ Usefull links, tools and more
 - [uncompyle6](https://pypi.org/project/uncompyle6/) - декомпилятор байт-кода питона (pyc - файлы). Декомплирует все версии ниже 3.9
 - [decompile3](https://github.com/rocky/python-decompile3) - декомпилятор байт-кода питона версий 3.7-3.8
 - [pycdc](https://github.com/zrax/pycdc) - может декомпилировать и дизаcсемлировать байт-код питона версии 3.10. Релизной версии нет, поэтому нужно скомпилировать.
+- [Compiler Explorer](gcc.godbolt.org) - онлайн компилятор для множества ЯП
 - ....
 
 > чуть позже сформирую примеры работы с этими тулзами
