@@ -15,6 +15,9 @@ Usefull links, tools and more
 - [Audacity](https://www.audacityteam.org/)
 
 # REVERSE
+- x32dbg, [x64dbg](https://x64dbg.com/) - usermode дебаггер под Windows
+- [ollydbg](https://www.ollydbg.de/version2.html) - x86 дебаггер под Windows. Достаточно старый, но кому-то нравится. Говорят, что поменьше багов, чем в x32dbg, x64dbg
+- windbg - kernel и usermode дебаггер под Windows
 - [gdb](https://www.sourceware.org/gdb/) - консольный дебаггер под линь.
 - [radare2](https://rada.re/n/) - консольный дебаггер под линь (более продвинутый, чем gdb).
 - [Cutter](https://cutter.re/) - GUI для консольных дебаггеров (gdb, radare2)
