@@ -9,6 +9,9 @@ Usefull links, tools and more
 - [Autopsy](https://www.autopsy.com/)
 - [Volatility](https://github.com/volatilityfoundation/volatility)
 
+## Links
+- https://dfirdiva.com/dfir-resources/
+
 # STEGANO
 - [Stegsolve](https://wiki.bi0s.in/steganography/stegsolve/)
 - [Steghide](https://steghide.sourceforge.net/)
