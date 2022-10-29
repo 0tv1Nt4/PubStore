@@ -8,8 +8,10 @@ Usefull links, tools and more
 # FORENSIC
 - [Autopsy](https://www.autopsy.com/)
 - [Volatility](https://github.com/volatilityfoundation/volatility)
+- [Wireshark](https://www.wireshark.org/)
+- FTK imager
 
-## Links
+### LINKS
 - https://dfirdiva.com/dfir-resources/
 
 # STEGANO
